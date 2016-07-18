@@ -3,29 +3,26 @@ Parses Old Navy DER and creates reports
 
 
 # How to Use
-
 If you have access to the Old Navy DER, which means, if you're 
 a manager at an Old Navy, then all you have to do is download the 
 Excel spreadsheet.
 
 ## Step 1. Download Spreadsheet
-THat's it
+That's it
 
 ## Step 2. Create a New Sheet (Call it Whatever You Desire)
 Do not delete the "Key" Sheet. In an future update, its contents will be 
 absorbed into the macro.
 
 ## Step 3. Access the DER and Copy and Paste
-Just hit ctrl+A in the DER view, then select cell A1 in the new sheet
+Just press **ctrl+A** in the DER view, then select cell A1 in the new sheet
 and paste everything. It'll look terrible, but that's okay.
 
 ## Step 4. Run the CleanTheDER Macro
-This can be done by looking through the macros or by pressing
-### ctrl+shift+K
+This can be done by looking through the macros or by pressing **ctrl+shift+K**
 
 
 # Wrap Up
-
 The macro will organize the data into a table and create a new table
 with the break down of units and hours per division
 
