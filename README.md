@@ -8,12 +8,12 @@ If you have access to the Old Navy DER, which means, if you're
 a manager at an Old Navy, then all you have to do is download the 
 Excel spreadsheet.
 
-Everything is contained in the macro aside from the "Key" sheet in the
-spreadsheet, I hope to be abosrbing that into the macro soon.
-
 ## Step 1. Download Spreadsheet
+THat's it
 
 ## Step 2. Create a New Sheet (Call it Whatever You Desire)
+Do not delete the "Key" Sheet. In an future update, its contents will be 
+absorbed into the macro.
 
 ## Step 3. Access the DER and Copy and Paste
 Just hit ctrl+A in the DER view, then select cell A1 in the new sheet
